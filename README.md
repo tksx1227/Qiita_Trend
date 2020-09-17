@@ -1,1 +1,1 @@
-"# Qiita_Trend" 
+# Qiita_Trend
